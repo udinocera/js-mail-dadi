@@ -12,7 +12,7 @@ collegare = inserire;
     }
 
 }
-let risposta;
+let negazione;
 if (collegare!=inserire){
     alert("la tua email non è accettata");
 }
