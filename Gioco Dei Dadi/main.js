@@ -10,8 +10,9 @@ if(giocatore1 > personalcomputer) {
     console.log("Vincente!");
 }else if(giocatore1 < personalcomputer) {
     console.log("Perdente!");
-}else if(giocatore1 = personalcomputer) {
-    console.log("Pareggio!");
+}else 
+{
+console.log("Pareggio!");
 }
     
 
